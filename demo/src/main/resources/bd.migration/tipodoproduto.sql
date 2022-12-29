@@ -1,0 +1,6 @@
+CREATE TABLE marcas
+(
+id INT PRIMARY KEY IDENTITY(1,1),
+descricao VARCHAR (50),
+tipo VARCHAR(2)
+);
